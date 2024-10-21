@@ -24,6 +24,8 @@ This project is a backend implementation of an Account Management API using Spri
 - **Spring Boot**: Framework for building RESTful APIs
 - **H2 Database**: In-memory database for quick development
 - **Maven**: Build automation tool
+- **Validation**: for field validations
+- **Lombok**: to write boilerplate code
 
 ## Swagger Specification: 
 - just visit http://localhost:8080/swagger-ui/index.html after cloning the repo and starting your development server
